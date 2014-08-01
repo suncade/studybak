@@ -20,7 +20,7 @@ public class daffodils {
                 System.out.println(i);
             }
         }
-        System.out.println("end");
+        System.out.println("---end---");
     }
 
 }
