@@ -6,7 +6,7 @@ import java.util.Scanner;
  *  1.程序分析：利用辗除法。
  * @author cade
  */
-public class comonDivisor {
+public class CommonDivisor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

@@ -7,7 +7,7 @@ package com.algorithm;
  * 
  * @author cade
  */
-public class resolveNum {
+public class ResolveNum {
     public static final int NUM = 130;
 
     public static void main(String[] args) {
